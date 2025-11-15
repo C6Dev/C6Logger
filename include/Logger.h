@@ -8,7 +8,7 @@
 #include <iomanip>
 #include <sstream>
 
-namespace C6GE {
+namespace C6Logger {
 	enum class LogLevel {
 		trace,
 		debug,

@@ -1,5 +1,7 @@
 # C6Logger
 
+![Copy of C svg](https://github.com/user-attachments/assets/de9be743-1f0b-4ab7-b707-cb958125cc90)
+
 C6Logger is a lightweight, user-friendly logging library designed for resource efficiency and easy integration.
 
 ## Features

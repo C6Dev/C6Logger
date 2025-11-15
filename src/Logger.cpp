@@ -25,7 +25,7 @@
 #define BRIGHT_RED "\033[91m"
 #define RESET      "\033[0m"
 
-namespace C6GE {
+namespace C6Logger {
 
     static std::mutex logMutex;
 
